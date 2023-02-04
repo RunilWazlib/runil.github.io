@@ -1,0 +1,428 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to top, rgba(0,0,0,0.6),rgba(0,0,0,0.8)), url(pics/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+
+    
+    
+}
+h1{
+    margin: 0;
+}
+.heading
+{
+    width: 100%;
+    height: 5rem;
+    background: gold;
+    min-width: 500px;
+    
+}
+.para1
+{
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
+.mercury
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(112, 128, 144,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+    
+
+}
+.venus
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(255,255,246,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+.topic
+{
+    margin-left: 4rem;
+    min-width: 500px;
+}
+.earth
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(40,120,184,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+.mars
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(231,125,17,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+.jupiter
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(188,175,178,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+.saturn
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(191,189,175,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+.uranus
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(209,231,231,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+.neptune
+{
+    float: left;
+    height: 23rem;
+    width: 19rem;
+    background: rgba(39,70,135,0.8);
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border: 1px solid wheat;
+    border-radius: 2px;
+}
+#form1
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form1 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: skyblue;
+    font-size: 20px;
+    
+}
+#form1 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form1 button
+{
+    margin-top: 2rem;
+    background: skyblue;
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form1 button:hover
+{
+background: rgb(23, 118, 181);
+}
+
+#form2
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form2 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(230, 129, 21);
+    font-size: 20px;
+    
+}
+#form2 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form2 button
+{
+    margin-top: 2rem;
+    background: rgb(216, 150, 28);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form2 button:hover
+{
+background: rgb(219, 204, 170);
+}
+#form3
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form3 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(4, 20, 70);
+    font-size: 20px;
+    
+}
+#form3 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form3 button
+{
+    margin-top: 2rem;
+    background: rgb(25, 82, 115);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form3 button:hover
+{
+background: rgb(8, 67, 114);
+}
+#form4
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form4 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(207, 135, 121);
+    font-size: 20px;
+    
+}
+#form4 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form4 button
+{
+    margin-top: 2rem;
+    background: rgb(25, 82, 115);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form4 button:hover
+{
+background: rgb(8, 67, 114);
+}
+#form5
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form5 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(227, 213, 210);
+    font-size: 20px;
+    
+}
+#form5 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form5 button
+{
+    margin-top: 2rem;
+    background: rgb(164, 174, 180);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form5 button:hover
+{
+background: rgb(8, 67, 114);
+}
+
+#form6
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form6 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(174, 229, 37);
+    font-size: 20px;
+    
+}
+#form6 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form6 button
+{
+    margin-top: 2rem;
+    background: rgb(219, 226, 21);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form6 button:hover
+{
+background: rgb(8, 67, 114);
+}
+
+#form7
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form7 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(0, 255, 247);
+    font-size: 20px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: #333;
+
+}
+#form7 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form7 button
+{
+    margin-top: 2rem;
+    background: rgb(12, 222, 230);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form7 button:hover
+{
+background: rgb(8, 67, 114);
+}
+
+
+#form8
+{
+    margin-left: 3rem;
+    text-align: center;
+    margin: auto;
+}
+#form8 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(5, 191, 243);
+    font-size: 20px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: #333;
+    
+
+}
+#form8 input
+{
+    height: 2rem;
+    width: 5rem;
+}
+#form8 button
+{
+    margin-top: 2rem;
+    background: rgb(12, 222, 230);
+    border: none;
+    width: 4rem;
+    height: 2rem;
+}
+
+#form8 button:hover
+{
+background: rgb(8, 67, 114);
+}
+::-webkit-scrollbar
+{
+    width: 0px;
+}
+#logo
+{
+    margin: 0;
+    float: left;
+}
+.topic
+{
+    float: left;
+}
+
+.footer
+{
+width: 20rem;
+height: 5rem;
+background-color: rgba(0,0,0,0.6);
+float: left;
+margin-left: 585px;
+}
+
+
+p{
+    margin: 0;
+}
+
+
+      
+
+
